@@ -89,4 +89,4 @@ AgriAdvisor/
 
 👨‍💻 Developer
 
-Your Name – Android & ML Integration
+Ruksana – Android & ML Integration
